@@ -1,0 +1,43 @@
+.app{
+    background-color: rgb(44, 44, 44);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mainTitle{
+    display: flex;
+    justify-content: center;
+}
+
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h1:hover{
+    color: gold;
+    cursor: pointer;
+    text-shadow: 2px 2px #797979;
+}
+
+.head img{
+    border: solid 10px white;
+}
+.titleRed{
+    color: blanchedalmond;
+}
+
+.vid{
+    display: flex;
+    justify-content: center;
+}
+
+video{
+    border: solid 10px white;
+}
